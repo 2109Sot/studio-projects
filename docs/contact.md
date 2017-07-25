@@ -5,5 +5,5 @@ title: Contact me
 ---
 
 * [Twitter](http://twitter.com/blahblah)
-* [user@example.com](mailto:user@example.com)
+* [sotiris@athenslive.gr](sotiris@athenslive.gr)
 * [Instagram](http://instagram.com/blahblah)
