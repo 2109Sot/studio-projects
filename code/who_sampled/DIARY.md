@@ -22,6 +22,8 @@ birth to, that is hip-hop in the States and drum-n-base in Europe (The UK).
 
 Saved my pandas data-frame into a .csv file entitled 'who_sampled_amen_break.csv'
 
-Got my first plots done (1. 'year ditribution, 2. 'Genres', 3. 'Artists that used the # sample more than 10 times').
+Got my first plots done (1. 'year ditribution, 2. 'Genres', 3. 'Artists that used the sample more than 10 times').
+
+Started working on visualizations in illustrator ('top 30 artists who used the sample more than 10 times')
 
 ------------------
