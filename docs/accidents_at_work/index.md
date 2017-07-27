@@ -5,7 +5,7 @@ layout: project
 
 ---
 
-![](20394905_1918116605127493_1010226274_o.jpg)
+![](14aAM3_4866..jpg)
 
 # Accidents in the Greek workplace: This is what happens when companies cut safety measures
 
