@@ -23,3 +23,16 @@ Finished the cleaning of basic info for all the years.
 Working on visualizations. Still waiting for feedback by the instructors and classmates.
 Got rid off the age distribution dataset as it is not useful for my story.
 Need to add writing in my story and finalize it before Friday.
+
+----------------
+
+## 07/25
+
+Started writing the report for my visualizations.
+The data from ELSTAT suck.
+
+-----------------
+
+## 07/26
+
+Done with writing. Ready to edit the html code and post my story on my github site.
