@@ -27,3 +27,10 @@ Got my first plots done (1. 'year ditribution, 2. 'Genres', 3. 'Artists that use
 Started working on visualizations in illustrator ('top 30 artists who used the sample more than 10 times')
 
 ------------------
+
+## 07/30
+
+Back to my second project, after spending the last days on finishing up 'Project_1'.
+I haven't worked much on my code. I think that there would be some interesting results there. However, my main argument is set: The sample has been used mostly by electronic music producers. Nevertheless, hip-hop artists (their tracks actually) get higher popularity rankings on whosampled.com website.
+
+I have mostly worked on my visualizations. I have to add some text on my main graph and some writing on my actual post, which will go online on Friday. Have my results saved in a .csv file :)
