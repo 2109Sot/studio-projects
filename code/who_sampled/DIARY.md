@@ -34,3 +34,9 @@ Back to my second project, after spending the last days on finishing up 'Project
 I haven't worked much on my code. I think that there would be some interesting results there. However, my main argument is set: The sample has been used mostly by electronic music producers. Nevertheless, hip-hop artists (their tracks actually) get higher popularity rankings on whosampled.com website.
 
 I have mostly worked on my visualizations. I have to add some text on my main graph and some writing on my actual post, which will go online on Friday. Have my results saved in a .csv file :)
+
+--------------------
+
+## 08/03
+
+Final revisions of my graphs. Time to start building my project online
