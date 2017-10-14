@@ -9,4 +9,6 @@ I am the co-founder and managing editor of [AthensLive](http://athenslive.gr/), 
 
 I hold a Bachelor’s degree in Communication & Media Studies from the Panteion University
 of Athens and a Master’s degree in New Media & Digital Culture from the University of
-Amsterdam. This summer I added to my journalism skillset through a 12-week immersion program in data journalism and coding at Columbia University Graduate School of Journalism.
+Amsterdam.
+
+This summer I added to my journalism skillset through a 12-week immersion program in data journalism and coding at Columbia University Graduate School of Journalism.
